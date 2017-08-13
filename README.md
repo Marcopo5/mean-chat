@@ -1,6 +1,6 @@
 # MeanChat
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.  It is the results of following the tutorial [here](https://www.djamware.com/post/58e0d15280aca75cdc948e4e/building-chat-application-using-mean-stack-angular-4-and-socketio).
 
 ## Installation
 
